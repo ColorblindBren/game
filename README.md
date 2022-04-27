@@ -1,1 +1,1 @@
-# game
+# Python tkinter game.
